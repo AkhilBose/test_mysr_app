@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708628898965",
+    "project_id": "mysr-test",
+    "storage_bucket": "mysr-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708628898965:android:9bd3ffb6783a24904aa79c",
+        "android_client_info": {
+          "package_name": "com.example.test_mysr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708628898965-9skejm8rk9u232poj9sifjg7jnlcrvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQzivBrVMBUsp7nZyBToLCjcy5e1r3Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708628898965-9skejm8rk9u232poj9sifjg7jnlcrvs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
